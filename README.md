@@ -1,3 +1,3 @@
 # SOAP-project
-SOAP : Systemic Overview of the Anthropocene Problems
-A causality diagram to our most pressing problems
+SOAP : Systemic Overview of the Anthropocene Pitfalls
+A causality diagram of our most pressing world issues

@@ -1,0 +1,177 @@
+[
+ 				{ "data": { "id": "n0", "label": 
+												
+"Scrutin uninominal à deux tour" 		} },
+	
+		
+									{ "data": { "id": "e0", "source": "n0", "target": "n3", "label":
+																
+    					"La méthode d'élection du scrutin uninominal à deux tours (pour la présidentielle) a été mathématiquement prouvée comme posant des problèmes, à la différence, par exemple, de celle du jugement majoritaire." } },
+	
+	
+	
+ 				{ "data": { "id": "n1", "label":
+												
+"Le peuple ne vote pas les lois" 	} },
+	
+	
+									{ "data": { "id": "e1", "source": "n1", "target": "n3", "label":
+									"Les citoyens devraient avoir la possibilité d'agir sur la loi à tout moment, directement. Or, ils ne le peuvent pas dans le présent système, ils doivent passer par des représentants élus pendant 5 ans. Les lois finissent par protéger ceux qui ont du pouvoir d'influence auprès de ceux qui font les lois (le parlement). La démocratie est mise à mal." } },
+	
+	
+	
+	
+					{ "data": { "id": "n2", "label":
+																
+"L'a-information / Ignorance"   } },
+	
+	
+									{ "data": { "id": "e2", "source": "n2", "target": "n3", "label":
+									"L'abstention massive engendre un système politique peu représentatif de la population. La démocratie est mise à mal." } },
+	
+	
+	
+	
+					{ "data": { "id": "n3", "label":
+																
+"Système politique oligarchique" } },
+	
+	
+									{ "data": { "id": "e3", "source": "n3", "target": "n4", "label":
+									"Un système politique représenté par une minorité de puissant favorise les intérêts de cette minorité et met à mal la justice sociale. La Valeur EGALITE de la république est écorchée." } },
+	
+									{ "data": { "id": "e4", "source": "n3", "target": "n5", "label":
+									"Un système politique représenté par une minorité de puissant conçoit un système économique qui favorise cette minorité. C'est le cas de notre système économique actuel qui est condamné de ce fait à observer une croissance exponentielle." } },
+	
+									{ "data": { "id": "e5", "source": "n3", "target": "n8", "label":
+									"Aucune loi ne régit la porosité entre politiques, puissants (propriétaires des médias) et journalistes. La sphère médiatique est sous influence du pouvoir." } },
+	
+	
+	
+	
+					{ "data": { "id": "n4", "label":
+																
+"Injustice sociale" } },
+	
+	
+	
+	
+					{ "data": { "id": "n5", "label":
+												
+"Système économique oligarchique" } },
+	
+	
+									{ "data": { "id": "e9", "source": "n5", "target": "n6", "label":
+									"L'activité économique est directement liée à l'utilisation de ressources. Une croissance économique exponentielle infinie n'est pas mathématiquement pas possible sur une planète finie. Les ressources s'épuisent." } },
+	
+	
+	
+	
+					{ "data": { "id": "n6", "label":
+																
+"Croissance exponentielle" } },
+	
+	
+									{ "data": { "id": "e10", "source": "n6", "target": "n10", "label":
+									"L'activité économique est directement liée à la production de déchets. Une croissance économique exponentielle polluera la Terre de manière exponentielle." } },
+	
+	
+	
+	
+					{ "data": { "id": "n7", "label":
+												
+"Culture de l'individualisme" } },
+	
+	
+									{ "data": { "id": "e8", "source": "n7", "target": "n3", "label":
+									"La qualité de nos élites est touchée. Ils deviennent moins défenseurs des valeurs de la république et de l'intérêt général." } },
+	
+	
+	
+	
+					{ "data": { "id": "n8", "label":
+												
+"Sphère médiatique sous influence" } },
+	
+	
+									{ "data": { "id": "e6", "source": "n8", "target": "n2", "label":
+									"Les médias mainstream faillissent à fournir une information de qualité et complète. La conscience a du mal à grandir dans un océan d'ignorance." } },
+	
+ 								{ "data": { "id": "e7", "source": "n8", "target": "n7", "label":
+									"Les médias mainstream inondent les ondes de contenus crétinisants qui font l'apologie de l'individualisme. Une culture de la compétition et de la vanité grandit." } },
+	
+	
+	
+	
+					{ "data": { "id": "n9", "label":
+												
+"Épuisement des ressources" } },
+	
+	
+									{ "data": { "id": "e13", "source": "n9", "target": "n11", "label":
+									"La déforestation et l'urbanisation, par exemple, détruit les éléments qui absorbe une partie des gaz à effet de serre (CO2)." } },
+	
+	
+	
+	
+					{ "data": { "id": "n10", "label":
+																
+"Pollution" } },
+	
+	
+									{ "data": { "id": "e11", "source": "n10", "target": "n9", "label":
+									"La pollution détruit des ressources naturelle. Effondrement de la biodiversité." } },
+	
+									{ "data": { "id": "e12", "source": "n10", "target": "n11", "label":
+									"Les émissions de gaz à effet de serre causent un réchauffement/changement climatique." } },
+	
+	
+	
+	
+					{ "data": { "id": "n11", "label":
+																
+"Changement Climatique" } },
+	
+	
+	
+	
+					{ "data": { "id": "n12", "label":
+																
+"Famines" } },
+																
+																
+										{ "data": { "id": "e14", "source": "n12", "target": "n9", "label":
+										"Le changement climatique détruit des ressources naturelles. Effondrement de la biodiversité." } },
+																
+																
+																
+
+					{ "data": { "id": "n13", "label":
+																
+"Guerres" } },
+	
+					{ "data": { "id": "n14", "label":
+																
+"Réfugiés" } },
+	
+					{ "data": { "id": "n15", "label":
+																
+"Terrorisme" } },
+	
+					{ "data": { "id": "n16", "label":
+																
+"Morts non naturelles" } },
+	
+	
+	
+	
+	
+	
+	
+	{ "data": { "id": "e15", "source": "n2", "target": "n3", "label":
+				"" } },
+	
+	{ "data": { "id": "e16", "source": "n2", "target": "n3", "label":
+				"" } }
+
+ ]

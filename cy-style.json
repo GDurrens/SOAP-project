@@ -1,0 +1,35 @@
+[{
+  "selector": "node",
+  "style": {
+    "text-valign": "center",
+    "text-halign": "center",
+				"width": "50px",
+				"height": "50px",
+				"font-size": "0.5em",
+				"shape": "round-rectangle", 
+				"text-max-width": "50px",
+			"text-wrap": "wrap",
+				"label": "data(label)",
+				"background-color": "rgb(255,100,100)",
+				"padding": "5px"
+  }
+},
+	
+{
+  "selector": "edge",
+  "style": {
+    "width": 1,
+				"line-color": "rgb(210,210,210)",
+    "curve-style": "straight",
+				"font-size": "0.2em",
+				"text-wrap": "wrap",
+				"text-max-width": "50px",
+				"text-justification": "center",
+				"label": "data(label)",
+				"target-arrow-shape": "triangle-backcurve",
+				"target-arrow-color": "rgb(210,210,210)"
+				
+}
+
+	
+}]

@@ -42,9 +42,12 @@
 
 		ready: function(){
 			this.layout({
-				name: 'fcose',
+				name: 'cose-bilkent',
 				idealEdgeLength: "100",
 				quality: "proof",
+				randomize: true,
+				nodeRepulsion: 4500,
+								
 
 			}).run();
 			}

@@ -1,4 +1,11 @@
-(function(){
+var saveAsSvg = function(filename) {
+				var svgContent = cy.svg({scale: 1, full: true, bg: '#ffff00'});
+				var blob = new Blob([svgContent], {type:"image/svg+xml;charset=utf-8"});
+				saveAs(blob, "SOAP.svg");
+	
+};
+
+document.addEventListener('DOMContentLoaded',function(){
 	
 	var cy = window.cy = cytoscape({
 		
@@ -54,5 +61,7 @@
 
 	});
 
-})();
+});
+
+
 

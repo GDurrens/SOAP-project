@@ -27,6 +27,7 @@ and the cose-bilkent layout algorithm.
 
  * Cytoscape.js ^3.2.0
  * cose-base ^1.0.0
+ * canvas2svg
 
 
 CREDITS:
@@ -35,3 +36,7 @@ CREDITS:
 # Cose-Bilkent algorithm:
 
 U. Dogrusoz, E. Giral, A. Cetintas, A. Civril, and E. Demir, "[A Layout Algorithm For Undirected Compound Graphs](http://www.sciencedirect.com/science/article/pii/S0020025508004799)", Information Sciences, 179, pp. 980-994, 2009.
+
+# SVG exporter
+
+[Kinimesi Github cytoscape-js](https://kinimesi.github.io/cytoscape-svg)

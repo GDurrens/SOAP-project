@@ -39,4 +39,4 @@ U. Dogrusoz, E. Giral, A. Cetintas, A. Civril, and E. Demir, "[A Layout Algorith
 
 # SVG exporter
 
-[Kinimesi Github cytoscape-js](https://kinimesi.github.io/cytoscape-svg)
+[Kinimesi Github cytoscape-js](https://github.com/kinimesi/cytoscape-svg)

@@ -17,13 +17,15 @@ document.addEventListener("DOMContentLoaded",function(){
 			style: {
 				"text-valign": "center",
 				"text-halign": "center",
+				
 				"width": "30",
 				"height": "30",
 				"font-size": "0.3em",
 				"shape": "round-rectangle", 
 				"text-max-width": "30",
 				"text-wrap": "wrap",				
-				"label": function(ele){return (ele.data("id") +"\n\n" + ele.data("label"));},
+//				"label": function(ele){return (ele.data("id") +"\n\n" + ele.data("label"));},
+				"label": "data(label)",
 				"background-color": "rgb(255,100,100)",
 				"padding": "5px"
 				}
@@ -56,7 +58,8 @@ document.addEventListener("DOMContentLoaded",function(){
 				quality: "proof",
 				randomize: true,
 				nodeRepulsion: 4500,
-								
+				animate: "false",
+				animationDuration:  2000								
 
 			}).run();
 			}

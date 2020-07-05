@@ -80,6 +80,9 @@
 									{ "data": { "id": "e8", "source": "11", "target": "10", "label":
 									"L'activité économique est directement liée à l'utilisation de ressources. Une croissance économique exponentielle infinie n'est pas mathématiquement  possible sur une planète finie. Les ressources s'épuisent." } },
 	
+									{ "data": { "id": "e11-3", "source": "11", "target": "3", "label":
+									"L'avarice et la convoitise de certaines ressources amènent un système économique piloté par une minorité de puissants à créer des guerres (économiques, puis réelles) qui leur seront en fait profitables." } },
+	
 	
 	
 	
@@ -189,7 +192,7 @@
 										"On fuit la guerre. On se réfugie ailleurs." } },
 	
 										{ "data": { "id": "e24", "source": "3", "target": "1", "label":
-										"la guerre mène au terrorisme, e.g. Syrie." } },
+										"la guerre mène au terrorisme, e.g. Al Quaida ou Daesh." } },
 	
 										{ "data": { "id": "e25", "source": "3", "target": "0", "label":
 										"la guerre tue" } },
@@ -213,7 +216,7 @@
 "Terrorisme" } },
 	
 	
-										{ "data": { "id": "e27", "source": "1", "target": "2", "label":
+										{ "data": { "id": "e27", "source": "1", "target": "3", "label":
 										"Le terrorisme pousse ou constitue un prétexte à la guerre (9/11 -> Afghanistan)." } },
 	
 										{ "data": { "id": "e28", "source": "1", "target": "0", "label":

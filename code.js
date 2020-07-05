@@ -50,14 +50,14 @@ document.addEventListener("DOMContentLoaded",function(){
 			}],
 		
 		elements: fetch("data.json").then(function( res ){ return res.json(); }),
-
-		ready: function(){
+				
+		ready: function(){	
 			this.layout({
 				name: "cose-bilkent",
-				idealEdgeLength: "125",
+				idealEdgeLength: "150",
 				quality: "proof",
 				randomize: true,
-				nodeRepulsion: 4500,
+				nodeRepulsion: 5000,
 				animate: "false",
 				animationDuration:  2000								
 
@@ -65,6 +65,8 @@ document.addEventListener("DOMContentLoaded",function(){
 			}
 		
 	});
+	
+	
 	
 	cy.on("mouseover", "edge", function(evt){
 			var edge = evt.target;			

@@ -34,12 +34,14 @@ document.addEventListener('DOMContentLoaded',function(){
 			style: {
 				"width": 5,
 				"line-color": "rgb(255,200,200)",
+				"opacity": 0.7,
 				"curve-style": "bezier",
-				"font-size": "0.2em",
+				"font-size": "0.3em",
 				"text-wrap": "wrap",
 				"text-max-width": "50px",
 				"text-justification": "center",
 				"label": "data(label)",
+				"text-opacity": 0,
 				"target-arrow-shape": "triangle-backcurve",
 				"target-arrow-color": "rgb(255,200,200)"
 				}
@@ -58,8 +60,21 @@ document.addEventListener('DOMContentLoaded',function(){
 
 			}).run();
 			}
-
+		
 	});
+	
+	cy.on('mouseover', 'edge', function(evt){
+			var edge = evt.target;			
+  			edge.style("text-opacity", 1);
+		
+			edge.once('mouseout', function(evt){
+				var node = evt.target;				
+				edge.style("text-opacity", 0);
+				});
+		
+			});
+	
+	
 
 });
 

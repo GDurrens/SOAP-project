@@ -38,12 +38,12 @@ document.addEventListener('DOMContentLoaded',function(){
 				"curve-style": "bezier",
 				"font-size": "0.3em",
 				"text-wrap": "wrap",
-				"text-max-width": "50px",
+				"text-max-width": "70px",
 				"text-justification": "center",
 				"label": "data(label)",
 				"text-opacity": 0,
 				"target-arrow-shape": "triangle-backcurve",
-				"target-arrow-color": "rgb(255,200,200)"
+				"target-arrow-color": "rgb(255,200,200)",				
 				}
 			}],
 		

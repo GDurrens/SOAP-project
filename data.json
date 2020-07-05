@@ -27,7 +27,7 @@
 	
 	
 									{ "data": { "id": "e2", "source": "14", "target": "13", "label":
-									"L'abstention massive engendre un système politique peu représentatif de la population. La démocratie est mise à mal." } },
+									"La confusion engendre le manque d'intérêt, et le désintérêt mène à l'abstention massive ou au vote mal éclairé. Ceci engendre un système politique peu représentatif de la population. La démocratie est mise à mal." } },
 	
 	
 	
@@ -41,7 +41,7 @@
 									"Un système politique représenté par une minorité de puissant favorise les intérêts de cette minorité et met à mal la justice sociale. La Valeur ÉGALITÉ de la république est écorchée." } },
 	
 									{ "data": { "id": "e4", "source": "13", "target": "11", "label":
-									"Un système politique représenté par une minorité de puissant conçoit un système économique qui favorise cette minorité. C'est le cas de notre système économique actuel qui est condamné de ce fait à observer une croissance exponentielle." } },
+									"Un système politique représenté par une minorité de puissant conçoit un système économique qui favorise cette minorité." } },
 	
 									{ "data": { "id": "e5", "source": "13", "target": "8", "label":
 									"Aucune loi ne régit la porosité entre politiques, puissants (propriétaires des médias) et journalistes. La sphère médiatique est sous influence du pouvoir." } },
@@ -50,7 +50,7 @@
 									"Un système politique qui préserve les intérêts d'une minorité ne changera pas une constitution pour que les citoyens puissent voter les lois directement." } },
 	
 									{ "data": { "id": "e1316", "source": "13", "target": "16", "label":
-									"Un système politique qui préserve les intérêts d'une minorité se garde de voter des changements de la constitution qui instaurerait une nouvelle méthode d'élection qui diminuerai les chance d'être réélu." } },
+									"Un système politique qui préserve les intérêts d'une minorité se garde de voter des changements de la constitution qui instaureraient une nouvelle méthode d'élection qui diminuerait les chances d'être réélu." } },
 	
 	
 	
@@ -63,7 +63,7 @@
 									{ "data": { "id": "e6", "source": "12", "target": "3", "label":
 									"L'injustice sociale créé un climat insurrectionnel." } },
 	
-									{ "data": { "id": "e7", "source": "12", "target": "2", "label":
+									{ "data": { "id": "e7", "source": "12", "target": "1", "label":
 									"L'injustice sociale radicalise et, à l'extrême, mène au terrorisme." } },
 	
 									{ "data": { "id": "e12-9", "source": "12", "target": "9", "label":
@@ -76,12 +76,12 @@
 												
 "Système économique oligarchique" } },
 	
+		
+									{ "data": { "id": "e11-3", "source": "11", "target": "3", "label":
+									"L'avarice et la convoitise de certaines ressources amènent un système économique piloté par une minorité de puissants à créer des guerres (économiques, puis réelles) qui leur sont en fait profitables." } },
 	
 									{ "data": { "id": "e8", "source": "11", "target": "10", "label":
-									"L'activité économique est directement liée à l'utilisation de ressources. Une croissance économique exponentielle infinie n'est pas mathématiquement  possible sur une planète finie. Les ressources s'épuisent." } },
-	
-									{ "data": { "id": "e11-3", "source": "11", "target": "3", "label":
-									"L'avarice et la convoitise de certaines ressources amènent un système économique piloté par une minorité de puissants à créer des guerres (économiques, puis réelles) qui leur seront en fait profitables." } },
+									"Création monétaire ex-nihilo, banques privées, emprunts étatique en monnaie scripturale, dette, intérêts, crédit successifs, équilibre entre inflation et déflation, tous ces aspects sont à l'oeuvre dans la façon dont le système économique actuel (un système de Ponzi légal) permet d'enrichir exponentionnellement les plus riches, et pour qu'il ne s'effondre pas, une croissance exponentielle est absolument nécessaire." } },
 	
 	
 	
@@ -93,6 +93,9 @@
 	
 									{ "data": { "id": "e9", "source": "10", "target": "6", "label":
 									"L'activité économique est directement liée à la production de déchets. Une croissance économique exponentielle polluera la Terre de manière exponentielle." } },
+	
+									{ "data": { "id": "e8", "source": "10", "target": "7", "label":
+									"L'activité économique est directement liée à l'utilisation de ressources. Une croissance économique exponentielle infinie n'est pas mathématiquement  possible sur une planète finie. Les ressources s'épuisent." } },
 	
 	
 	
@@ -114,10 +117,10 @@
 	
 	
 									{ "data": { "id": "e11", "source": "8", "target": "14", "label":
-									"Les médias mainstream faillissent à fournir une information de qualité et complète. La conscience a du mal à grandir dans un océan d'ignorance." } },
+									"Les médias mainstream faillient à fournir une information complète et de qualité. La conscience a du mal à grandir dans un océan d'ignorance et de confusion." } },
 	
- 								{ "data": { "id": "e12", "source": "8", "target": "9", "label":
-									"Les médias mainstream inondent les ondes de contenus crétinisant qui font l'apologie de l'individualisme. Une culture de la compétition et de la vanité grandit. La valeur FRATERNITÉ de la République est touchée." } },
+ 									{ "data": { "id": "e12", "source": "8", "target": "9", "label":
+									"Les médias mainstream inondent les ondes de contenus crétinisant qui font l'apologie de l'individualisme. Une culture de la compétition et de la vanité grandit via la publicité. La valeur FRATERNITÉ de la République est touchée." } },
 	
 	
 	
@@ -160,16 +163,16 @@
 									{ "data": { "id": "e18", "source": "5", "target": "0", "label":
 									"le changement climatique provoque des évènements météorologique qui tuent directement : tempêtes, canicules, etc.." } },
 	
+									{ "data": { "id": "e19", "source": "5", "target": "7", "label":
+									"Le changement climatique détruit des ressources naturelles. Effondrement de la biodiversité." } },
+	
 	
 	
 	
 					{ "data": { "id": "4", "label":
 																
 "Famines" } },
-																
-																
-										{ "data": { "id": "e19", "source": "4", "target": "7", "label":
-										"Le changement climatique détruit des ressources naturelles. Effondrement de la biodiversité." } },
+										
 	
 										{ "data": { "id": "e20", "source": "4", "target": "3", "label":
 										"La famine engendre la guerre." } },

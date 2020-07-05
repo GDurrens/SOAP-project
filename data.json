@@ -23,7 +23,7 @@
 	
 					{ "data": { "id": "14", "label":
 																
-"L'a-information / Ignorance"   } },
+"L'Ignorance"   } },
 	
 	
 									{ "data": { "id": "e2", "source": "14", "target": "13", "label":
@@ -38,7 +38,7 @@
 	
 	
 									{ "data": { "id": "e3", "source": "13", "target": "12", "label":
-									"Un système politique représenté par une minorité de puissant favorise les intérêts de cette minorité et met à mal la justice sociale. La Valeur EGALITE de la république est écorchée." } },
+									"Un système politique représenté par une minorité de puissant favorise les intérêts de cette minorité et met à mal la justice sociale. La Valeur ÉGALITÉ de la république est écorchée." } },
 	
 									{ "data": { "id": "e4", "source": "13", "target": "11", "label":
 									"Un système politique représenté par une minorité de puissant conçoit un système économique qui favorise cette minorité. C'est le cas de notre système économique actuel qui est condamné de ce fait à observer une croissance exponentielle." } },
@@ -47,10 +47,10 @@
 									"Aucune loi ne régit la porosité entre politiques, puissants (propriétaires des médias) et journalistes. La sphère médiatique est sous influence du pouvoir." } },
 	
 									{ "data": { "id": "e1315", "source": "13", "target": "15", "label":
-									"Le système politique en place évite que les citoyens puissent voter les lois directement pour préserver les intérêts d'une minorité." } },
+									"Un système politique qui préserve les intérêts d'une minorité ne changera pas une constitution pour que les citoyens puissent voter les lois directement." } },
 	
 									{ "data": { "id": "e1316", "source": "13", "target": "16", "label":
-									"Le système politique en place évite de voter des changements de la constitution qui confèreraient aux citoyens le pouvoir de voter les lois, et ce, pour préserver les intérêts d'une minorité." } },
+									"Un système politique qui préserve les intérêts d'une minorité se garde de voter des changements de la constitution qui instaurerait une nouvelle méthode d'élection qui diminuerai les chance d'être réélu." } },
 	
 	
 	
@@ -65,6 +65,9 @@
 	
 									{ "data": { "id": "e7", "source": "12", "target": "2", "label":
 									"L'injustice sociale radicalise et, à l'extrême, mène au terrorisme." } },
+	
+									{ "data": { "id": "e12-9", "source": "12", "target": "9", "label":
+									"L'injustice sociale promeut la comparaison sociale, la jalousie, engendre le vol par nécessité et réduit donc la confiance entre individus. Elle contribue à installer un climat individualiste." } },
 	
 	
 	
@@ -111,7 +114,7 @@
 									"Les médias mainstream faillissent à fournir une information de qualité et complète. La conscience a du mal à grandir dans un océan d'ignorance." } },
 	
  								{ "data": { "id": "e12", "source": "8", "target": "9", "label":
-									"Les médias mainstream inondent les ondes de contenus crétinisants qui font l'apologie de l'individualisme. Une culture de la compétition et de la vanité grandit." } },
+									"Les médias mainstream inondent les ondes de contenus crétinisant qui font l'apologie de l'individualisme. Une culture de la compétition et de la vanité grandit. La valeur FRATERNITÉ de la République est touchée." } },
 	
 	
 	

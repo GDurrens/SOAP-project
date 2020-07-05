@@ -95,7 +95,10 @@
 									"L'injustice sociale radicalise et, à l'extrême, mène au terrorisme." } },
 	
 									{ "data": { "id": "e12-9", "source": "12", "target": "9", "label":
-									"L'injustice sociale est un terreau fertile pour la jalousie, la comparaison sociale, le vol par nécessité et réduit donc la confiance entre individus. Elle contribue à installer un climat stressant individualiste de \"chacun pour soi\"." } },
+									"L'injustice sociale est un terreau fertile pour la jalousie, la comparaison sociale, la dépression, le vol par nécessité, etc., et réduit donc la confiance entre individus et diminue fortement la disponibilité de chacun pour autrui. Elle contribue à installer un climat stressant individualiste de \"chacun pour soi\"." } },
+	
+									{ "data": { "id": "e12-0", "source": "12", "target": "0", "label":
+									"L'injustice sociale pousse malheureusement certains au suicide." } },
 	
 	
 	

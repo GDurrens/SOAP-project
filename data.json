@@ -4,7 +4,7 @@
 "Scrutin uninominal à deux tours" } },
 	
 		
-									{ "data": { "id": "e0", "source": "16", "target": "13", "label":
+									{ "data": { "id": "e16-13", "source": "16", "target": "13", "label":
 																
     					"La méthode d'élection du scrutin uninominal à deux tours (pour la présidentielle) a été mathématiquement prouvée comme posant des problèmes, à la différence, par exemple, de celle du jugement majoritaire." } },
 	
@@ -15,7 +15,7 @@
 "Le peuple ne vote pas les lois" 	} },
 	
 	
-									{ "data": { "id": "e1", "source": "15", "target": "13", "label":
+									{ "data": { "id": "e15-13", "source": "15", "target": "13", "label":
 									"Les citoyens devraient avoir la possibilité d'agir sur la loi à tout moment, directement. Or, ils ne le peuvent pas dans le présent système, ils doivent passer par des représentants élus pendant 5 ans. Les lois finissent par protéger ceux qui ont du pouvoir d'influence auprès de ceux qui font les lois (le parlement). La démocratie est mise à mal." } },
 	
 	
@@ -26,7 +26,7 @@
 "L'Ignorance"   } },
 	
 	
-									{ "data": { "id": "e2", "source": "14", "target": "13", "label":
+									{ "data": { "id": "e14-13", "source": "14", "target": "13", "label":
 									"La confusion engendre le manque d'intérêt, et le désintérêt mène à l'abstention massive ou au vote mal éclairé. Ceci engendre un système politique peu représentatif de la population. La démocratie est mise à mal." } },
 	
 	
@@ -37,19 +37,19 @@
 "Système politique oligarchique" } },
 	
 	
-									{ "data": { "id": "e3", "source": "13", "target": "12", "label":
+									{ "data": { "id": "e13-12", "source": "13", "target": "12", "label":
 									"Un système politique représenté par une minorité de puissant favorise les intérêts de cette minorité et met à mal la justice sociale. La Valeur ÉGALITÉ de la république est écorchée." } },
 	
-									{ "data": { "id": "e4", "source": "13", "target": "11", "label":
+									{ "data": { "id": "e13-11", "source": "13", "target": "11", "label":
 									"Un système politique représenté par une minorité de puissant conçoit un système économique qui favorise cette minorité." } },
 	
-									{ "data": { "id": "e5", "source": "13", "target": "8", "label":
+									{ "data": { "id": "e13-8", "source": "13", "target": "8", "label":
 									"Aucune loi ne régit la porosité entre politiques, puissants (propriétaires des médias) et journalistes. La sphère médiatique est sous influence du pouvoir." } },
 	
-									{ "data": { "id": "e1315", "source": "13", "target": "15", "label":
+									{ "data": { "id": "e13-15", "source": "13", "target": "15", "label":
 									"Un système politique qui préserve les intérêts d'une minorité ne changera pas une constitution pour que les citoyens puissent voter les lois directement." } },
 	
-									{ "data": { "id": "e1316", "source": "13", "target": "16", "label":
+									{ "data": { "id": "e13-16", "source": "13", "target": "16", "label":
 									"Un système politique qui préserve les intérêts d'une minorité se garde de voter des changements de la constitution qui instaureraient une nouvelle méthode d'élection qui diminuerait les chances d'être réélu." } },
 	
 	
@@ -60,10 +60,10 @@
 "Injustice sociale" } },
 	
 	
-									{ "data": { "id": "e6", "source": "12", "target": "3", "label":
+									{ "data": { "id": "e12-3", "source": "12", "target": "3", "label":
 									"L'injustice sociale créé un climat insurrectionnel." } },
 	
-									{ "data": { "id": "e7", "source": "12", "target": "1", "label":
+									{ "data": { "id": "e12-1", "source": "12", "target": "1", "label":
 									"L'injustice sociale radicalise et, à l'extrême, mène au terrorisme." } },
 	
 									{ "data": { "id": "e12-9", "source": "12", "target": "9", "label":
@@ -78,9 +78,9 @@
 	
 		
 									{ "data": { "id": "e11-3", "source": "11", "target": "3", "label":
-									"L'avarice et la convoitise de certaines ressources amènent un système économique piloté par une minorité de puissants à créer des guerres (économiques, puis réelles) qui leur sont en fait profitables." } },
+									"L'avarice et la convoitise de certaines ressources amènent un système économique piloté par une minorité de puissants à créer des guerres (économiques, puis réelles) qui leur sont en fait profitables (pétrole)." } },
 	
-									{ "data": { "id": "e8", "source": "11", "target": "10", "label":
+									{ "data": { "id": "e11-10", "source": "11", "target": "10", "label":
 									"Création monétaire ex-nihilo des banques privées, emprunts étatiques en monnaie scripturale, dette, intérêts, crédit successifs, équilibre entre inflation et déflation, tous ces aspects sont à l'oeuvre dans la façon dont le système économique actuel (un système de Ponzi légal) permet d'enrichir exponentionnellement les plus riches, et pour qu'il ne s'effondre pas une croissance exponentielle est absolument nécessaire." } },
 	
 	
@@ -91,10 +91,10 @@
 "Croissance exponentielle" } },
 	
 	
-									{ "data": { "id": "e9", "source": "10", "target": "6", "label":
+									{ "data": { "id": "e10-6", "source": "10", "target": "6", "label":
 									"L'activité économique est directement liée à la production de déchets. Une croissance économique exponentielle polluera la Terre de manière exponentielle." } },
 	
-									{ "data": { "id": "e8", "source": "10", "target": "7", "label":
+									{ "data": { "id": "e10-7", "source": "10", "target": "7", "label":
 									"L'activité économique est directement liée à l'utilisation de ressources. Une croissance économique exponentielle infinie n'est pas mathématiquement  possible sur une planète finie. Les ressources s'épuisent." } },
 	
 	
@@ -105,7 +105,7 @@
 "Culture de l'individualisme" } },
 	
 	
-									{ "data": { "id": "e10", "source": "9", "target": "13", "label":
+									{ "data": { "id": "e9-13", "source": "9", "target": "13", "label":
 									"La qualité de nos élites est touchée. Ils deviennent moins défenseurs des valeurs de la république et de l'intérêt général." } },
 	
 	
@@ -116,10 +116,10 @@
 "Sphère médiatique sous influence" } },
 	
 	
-									{ "data": { "id": "e11", "source": "8", "target": "14", "label":
+									{ "data": { "id": "e8-14", "source": "8", "target": "14", "label":
 									"Les médias mainstream faillient à fournir une information complète et de qualité. La conscience a du mal à grandir dans un océan d'ignorance et de confusion." } },
 	
- 									{ "data": { "id": "e12", "source": "8", "target": "9", "label":
+ 									{ "data": { "id": "e8-9", "source": "8", "target": "9", "label":
 									"Les médias mainstream inondent les ondes de contenus crétinisant qui font l'apologie de l'individualisme. Une culture de la compétition et de la vanité grandit via la publicité. La valeur FRATERNITÉ de la République est touchée." } },
 	
 	
@@ -130,16 +130,16 @@
 "Épuisement des ressources" } },
 	
 	
-									{ "data": { "id": "e13", "source": "7", "target": "5", "label":
+									{ "data": { "id": "e7-5", "source": "7", "target": "5", "label":
 									"La déforestation et l'urbanisation, par exemple, détruit les éléments qui absorbe une partie des gaz à effet de serre (CO2)." } },
 	
-									{ "data": { "id": "e14", "source": "7", "target": "3", "label":
+									{ "data": { "id": "e7-3", "source": "7", "target": "3", "label":
 									"La rareté des ressources pousse les peuples à se battre." } },
 	
-									{ "data": { "id": "e15", "source": "7", "target": "4", "label":
+									{ "data": { "id": "e7-4", "source": "7", "target": "4", "label":
 									"l'épuisement des ressources locales génère des famines." } },
 	
-									{ "data": { "id": "e15", "source": "7", "target": "2", "label":
+									{ "data": { "id": "e7-2", "source": "7", "target": "2", "label":
 									"l'épuisement des ressources locales mène les personnes à partir pour en trouver ailleurs." } },
 	
 	
@@ -150,10 +150,10 @@
 "Pollution" } },
 	
 	
-									{ "data": { "id": "e16", "source": "6", "target": "7", "label":
+									{ "data": { "id": "e6-7", "source": "6", "target": "7", "label":
 									"La pollution détruit des ressources naturelle. Effondrement de la biodiversité." } },
 	
-									{ "data": { "id": "e17", "source": "6", "target": "5", "label":
+									{ "data": { "id": "e6-5", "source": "6", "target": "5", "label":
 									"Les émissions de gaz à effet de serre causent un réchauffement/changement climatique." } },
 	
 	
@@ -163,10 +163,10 @@
 																
 "Changement Climatique" } },
 	
-									{ "data": { "id": "e18", "source": "5", "target": "0", "label":
+									{ "data": { "id": "e5-0", "source": "5", "target": "0", "label":
 									"le changement climatique provoque des évènements météorologique qui tuent directement : tempêtes, canicules, etc.." } },
 	
-									{ "data": { "id": "e19", "source": "5", "target": "7", "label":
+									{ "data": { "id": "e5-7", "source": "5", "target": "7", "label":
 									"Le changement climatique détruit des ressources naturelles. Effondrement de la biodiversité." } },
 	
 	
@@ -177,10 +177,10 @@
 "Famines" } },
 										
 	
-										{ "data": { "id": "e20", "source": "4", "target": "3", "label":
+										{ "data": { "id": "e4-3", "source": "4", "target": "3", "label":
 										"La famine engendre la guerre." } },
 	
-										{ "data": { "id": "e21", "source": "4", "target": "0", "label":
+										{ "data": { "id": "e4-0", "source": "4", "target": "0", "label":
 										"la famine tue." } },
 																
 													
@@ -191,16 +191,16 @@
 "Guerres" } },
 	
 	
-										{ "data": { "id": "e22", "source": "3", "target": "7", "label":
+										{ "data": { "id": "e3-7", "source": "3", "target": "7", "label":
 										"La guerre détruit les ressources naturelles." } },
 	
-										{ "data": { "id": "e23", "source": "3", "target": "2", "label":
+										{ "data": { "id": "e3-2", "source": "3", "target": "2", "label":
 										"On fuit la guerre. On se réfugie ailleurs." } },
 	
-										{ "data": { "id": "e24", "source": "3", "target": "1", "label":
+										{ "data": { "id": "e3-1", "source": "3", "target": "1", "label":
 										"la guerre mène au terrorisme, e.g. Al Quaida ou Daesh." } },
 	
-										{ "data": { "id": "e25", "source": "3", "target": "0", "label":
+										{ "data": { "id": "e3-0", "source": "3", "target": "0", "label":
 										"la guerre tue" } },
 	
 		
@@ -211,7 +211,7 @@
 "Réfugiés" } },
 	
 	
-										{ "data": { "id": "e26", "source": "2", "target": "3", "label":
+										{ "data": { "id": "e2-3", "source": "2", "target": "3", "label":
 										"L'arrivée massive de réfugiés mal gérée politiquement engendre la guerre." } },
 	
 	
@@ -222,10 +222,10 @@
 "Terrorisme" } },
 	
 	
-										{ "data": { "id": "e27", "source": "1", "target": "3", "label":
+										{ "data": { "id": "e1-3", "source": "1", "target": "3", "label":
 										"Le terrorisme pousse ou constitue un prétexte à la guerre (9/11 -> Afghanistan)." } },
 	
-										{ "data": { "id": "e28", "source": "1", "target": "0", "label":
+										{ "data": { "id": "e1-0", "source": "1", "target": "0", "label":
 										"Le terrorisme tue." } },
 	
 	

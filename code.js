@@ -1,38 +1,38 @@
 var saveAsSvg = function(filename) {
-				var svgContent = cy.svg({scale: 1, full: true, bg: '#ffff00'});
+				var svgContent = cy.svg({scale: 1, full: true, bg: "#ffff00"});
 				var blob = new Blob([svgContent], {type:"image/svg+xml;charset=utf-8"});
 				saveAs(blob, "SOAP.svg");
 	
 };
 
-document.addEventListener('DOMContentLoaded',function(){
+document.addEventListener("DOMContentLoaded",function(){
 	
 	var cy = window.cy = cytoscape({
 		
-		container: document.getElementById('cy'),
+		container: document.getElementById("cy"),
 
 		style: [
 			{			
-			selector: 'node',
+			selector: "node",
 			style: {
-				'text-valign': 'center',
-				'text-halign': 'center',
-				'width': '50',
-				'height': '50',
-				'font-size': '0.5em',
-				'shape': 'round-rectangle', 
-				'text-max-width': '50',
-				'text-wrap': 'wrap',				
-				'label': function(ele){return (ele.data("id") +"\n\n" + ele.data("label"));},
-				'background-color': 'rgb(255,100,100)',
-				'padding': '5px'
+				"text-valign": "center",
+				"text-halign": "center",
+				"width": "30",
+				"height": "30",
+				"font-size": "0.3em",
+				"shape": "round-rectangle", 
+				"text-max-width": "30",
+				"text-wrap": "wrap",				
+				"label": function(ele){return (ele.data("id") +"\n\n" + ele.data("label"));},
+				"background-color": "rgb(255,100,100)",
+				"padding": "5px"
 				}
 			},		
 
 			{
-			selector: 'edge',
+			selector: "edge",
 			style: {
-				"width": 5,
+				"width": 2,
 				"line-color": "rgb(255,200,200)",
 				"opacity": 0.7,
 				"curve-style": "bezier",
@@ -51,8 +51,8 @@ document.addEventListener('DOMContentLoaded',function(){
 
 		ready: function(){
 			this.layout({
-				name: 'cose-bilkent',
-				idealEdgeLength: "100",
+				name: "cose-bilkent",
+				idealEdgeLength: "125",
 				quality: "proof",
 				randomize: true,
 				nodeRepulsion: 4500,
@@ -63,13 +63,17 @@ document.addEventListener('DOMContentLoaded',function(){
 		
 	});
 	
-	cy.on('mouseover', 'edge', function(evt){
+	cy.on("mouseover", "edge", function(evt){
 			var edge = evt.target;			
   			edge.style("text-opacity", 1);
+			edge.style("line-color", "rgb(200,200,255)");
+			edge.style("target-arrow-color", "rgb(200,200,255)");
 		
-			edge.once('mouseout', function(evt){
+			edge.once("mouseout", function(evt){
 				var node = evt.target;				
 				edge.style("text-opacity", 0);
+				edge.style("line-color", "rgb(255,200,200)");
+				edge.style("target-arrow-color", "rgb(255,200,200)");
 				});
 		
 			});

@@ -21,18 +21,14 @@ HOW IT WORKS:
 the network construction is relying on [Cytoscape.js](https://js.cytoscape.org/)
 
 
-
-
-
 ## Dependencies
 
  * Cytoscape.js ^3.2.0
  * canvas2svg
 
 
-CREDITS:
---------
+## Credits:
 
-# SVG exporter
+### SVG exporter
 
 [Kinimesi Github cytoscape-js](https://github.com/kinimesi/cytoscape-svg)

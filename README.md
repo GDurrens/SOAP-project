@@ -9,7 +9,7 @@ HOW TO MODIFY :
 ---------------
 
 Just edit the data.json file with a text editor to add nodes or edges or modify their labels.
-You can save the nodes' position as JSON locally.
+You can save the graph's position as JSON locally.
 You can export a svg
 
 

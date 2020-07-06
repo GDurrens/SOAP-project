@@ -23,8 +23,8 @@
       "label": "État affaibli"
     },
     "position": {
-      "x": -192.13263546383564,
-      "y": -70.51173074904311
+      "x": -184.58904080207486,
+      "y": -46.30936454256062
     },
     "group": "nodes",
     "removed": false,
@@ -41,8 +41,8 @@
       "label": "Scrutin uninominal à deux tours"
     },
     "position": {
-      "x": -372.90767671306025,
-      "y": -64.35970054946218
+      "x": -350.59120917201795,
+      "y": -59.33063744162166
     },
     "group": "nodes",
     "removed": false,
@@ -59,8 +59,8 @@
       "label": "Le peuple ne vote pas les lois"
     },
     "position": {
-      "x": -370.06827815940755,
-      "y": -130.13910037575073
+      "x": -349.0090763953254,
+      "y": -115.68054394070923
     },
     "group": "nodes",
     "removed": false,
@@ -77,8 +77,8 @@
       "label": "Ignorance ou manipulation"
     },
     "position": {
-      "x": -370.54151125168295,
-      "y": 8.044962568682774
+      "x": -338.4812339391997,
+      "y": 3.9588487935623515
     },
     "group": "nodes",
     "removed": false,
@@ -95,8 +95,8 @@
       "label": "Pouvoir oligarchique"
     },
     "position": {
-      "x": -312.8070739940772,
-      "y": -193.07910164838654
+      "x": -278.8608980161537,
+      "y": -152.8465967856624
     },
     "group": "nodes",
     "removed": false,
@@ -113,8 +113,8 @@
       "label": "Injustice sociale"
     },
     "position": {
-      "x": -174.62301104964368,
-      "y": 86.12842279413321
+      "x": -166.76509994364287,
+      "y": 59.72584147797049
     },
     "group": "nodes",
     "removed": false,
@@ -131,8 +131,8 @@
       "label": "Système économique prédateur"
     },
     "position": {
-      "x": -194.02556783293744,
-      "y": -194.02556783293744
+      "x": -199.368947385018,
+      "y": -151.59284786053308
     },
     "group": "nodes",
     "removed": false,
@@ -149,8 +149,8 @@
       "label": "Croissance exponentielle"
     },
     "position": {
-      "x": -107.42391194652878,
-      "y": -196.39173329431475
+      "x": -108.36686127924888,
+      "y": -151.75879821223018
     },
     "group": "nodes",
     "removed": false,
@@ -167,8 +167,8 @@
       "label": "Culture de l'individualisme"
     },
     "position": {
-      "x": -245.60797489096225,
-      "y": 84.23549042503136
+      "x": -232.09236778864087,
+      "y": 60.03312421854884
     },
     "group": "nodes",
     "removed": false,
@@ -185,8 +185,8 @@
       "label": "Sphère médiatique sous influence"
     },
     "position": {
-      "x": -313.7535401786281,
-      "y": 80.9228587791032
+      "x": -293.9516041915061,
+      "y": 55.14891035142054
     },
     "group": "nodes",
     "removed": false,
@@ -203,8 +203,8 @@
       "label": "Épuisement des ressources"
     },
     "position": {
-      "x": -105.53097957742698,
-      "y": -120.20120543796614
+      "x": -82.27156270366457,
+      "y": -88.7695610139629
     },
     "group": "nodes",
     "removed": false,
@@ -221,8 +221,8 @@
       "label": "Pollution"
     },
     "position": {
-      "x": -4.440892098500626e-16,
-      "y": -195.91850020203927
+      "x": -27.031214204642783,
+      "y": -153.80009667387492
     },
     "group": "nodes",
     "removed": false,
@@ -239,8 +239,8 @@
       "label": "Changement Climatique"
     },
     "position": {
-      "x": -0.9464661845509117,
-      "y": -119.72797234569067
+      "x": 39.286038678173234,
+      "y": -112.81301057240996
     },
     "group": "nodes",
     "removed": false,
@@ -257,8 +257,8 @@
       "label": "Famines"
     },
     "position": {
-      "x": -1.419699276826371,
-      "y": -55.84150488850395
+      "x": 5.180946052214309,
+      "y": -56.47013777698401
     },
     "group": "nodes",
     "removed": false,
@@ -275,8 +275,8 @@
       "label": "Guerres"
     },
     "position": {
-      "x": 19.8757898755692,
-      "y": 33.59954955155746
+      "x": 33.391396977890594,
+      "y": 16.31214511835568
     },
     "group": "nodes",
     "removed": false,
@@ -293,8 +293,8 @@
       "label": "Réfugiés"
     },
     "position": {
-      "x": -123.51383708389434,
-      "y": 6.152030199580943
+      "x": -119.11340686453389,
+      "y": -9.249475568180644
     },
     "group": "nodes",
     "removed": false,
@@ -311,8 +311,8 @@
       "label": "Terrorisme"
     },
     "position": {
-      "x": 97.48601700874414,
-      "y": 86.60165588640868
+      "x": 95.28580189906391,
+      "y": 70.57151723016702
     },
     "group": "nodes",
     "removed": false,

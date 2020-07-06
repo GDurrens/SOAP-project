@@ -1,10 +1,3 @@
-var saveAsSvg = function(filename) {
-				var svgContent = cy.svg({scale: 1, full: true, bg: "#ffff00"});
-				var blob = new Blob([svgContent], {type:"image/svg+xml;charset=utf-8"});
-				saveAs(blob, "SOAP.svg");
-	
-};
-
 document.addEventListener("DOMContentLoaded",function(){
 	
 	var cy = window.cy = cytoscape({
@@ -16,8 +9,7 @@ document.addEventListener("DOMContentLoaded",function(){
 			selector: "node",
 			style: {
 				"text-valign": "center",
-				"text-halign": "center",
-				
+				"text-halign": "center",				
 				"width": "30",
 				"height": "30",
 				"font-size": "0.3em",
@@ -38,9 +30,9 @@ document.addEventListener("DOMContentLoaded",function(){
 				"line-color": "rgb(255,200,200)",
 				"opacity": 0.7,
 				"curve-style": "bezier",
-				"font-size": "0.3em",
+				"font-size": "0.2em",
 				"text-wrap": "wrap",
-				"text-max-width": "70px",
+				"text-max-width": "50px",
 				"text-justification": "center",
 				"label": "data(label)",
 				"text-opacity": 0,
@@ -50,19 +42,10 @@ document.addEventListener("DOMContentLoaded",function(){
 			}],
 		
 		elements: fetch("./data.json").then(function( res ){ return res.json(); }),
-				
-		ready: function(){	
-			this.layout({
-				name: "cose-bilkent",
-				idealEdgeLength: "150",
-				quality: "proof",
-				randomize: true,
-				nodeRepulsion: 5000,
-				animate: "false",
-				animationDuration:  2000								
-
-			}).run();
-			}
+		
+		layout: {
+			name: "preset"
+		}
 		
 	});
 	
@@ -87,5 +70,20 @@ document.addEventListener("DOMContentLoaded",function(){
 
 });
 
+var saveAsSvg = function(filename) {
+				var svgContent = cy.svg({scale: 1, full: true, bg: "#ffff00"});
+				var blob = new Blob([svgContent], {type:"image/svg+xml;charset=utf-8"});
+				saveAs(blob, "SOAP.svg");
+	
+};
+
+
+var exportjson = function(filename) {
+//				console.log( cy.json());				
+				var jsoncontent = cy.elements().jsons();
+				var blob = new Blob([JSON.stringify(jsoncontent, null, 2)], {type:"application/json;charset=utf-8"});
+				saveAs(blob, "mydata.json");
+	
+};
 
 

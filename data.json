@@ -1,269 +1,1144 @@
 [
-				{ "data": { "id": "18", "label":
-																
-"Gouvernment suppporting a powerful minority" } },
-	
-	
-									{ "data": { "id": "e18-17", "source": "18", "target": "17", "label":
-									"A gouvernment that protects the interests of a minority leads a political program that enslaves the State to this minority." } },
-	
-									{ "data": { "id": "e18-8", "source": "18", "target": "8", "label":
-									"Seldom are the rules that are preventing too much porosity between politics, rich media owners and journalists. The mediatic sphere is under the influence of the Establishment." } },
-	
-									{ "data": { "id": "e18-16", "source": "18", "target": "16", "label":
-									"A gouvernment that protects the interests of a minority avoids voting constitutionnal changes that would implement a new election method that would reduce chances to be re-elected." } },
-	
-									{ "data": { "id": "e18-15", "source": "18", "target": "15", "label":
-									"A gouvernment that protects the interests of a minority avoids changing the constitution so that the citizens can vote laws directly." } },
-	
-									{ "data": { "id": "e18-11", "source": "18", "target": "11", "label":
-									"A gouvernment that protects the interests of a minority legalize an economical system that promotes that minority. This phenomenon is encouraged by the revolving doors between public and private sector." } },
-	
-									{ "data": { "id": "e18-12", "source": "18", "target": "12", "label":
-									"A executive power that protects the interests of a minority conducts an austerity political program and applies strong repression to protesters." } },
-	
-	
-	
-	
-				{ "data": { "id": "17", "label":
-																
-"Weakened State" } },
-	
-	
-									{ "data": { "id": "e17-12", "source": "17", "target": "12", "label":
-									"Weakened public services are no help in fighting against social justice. The welfare state dissapears." } },
-	
-	
-	
-	
- 				{ "data": { "id": "16", "label": 
-												
-"First past the post voting system" } },
-	
-		
-									{ "data": { "id": "e16-18", "source": "16", "target": "18", "label":
-																
-    					"The first past the post election method is mathematically proven as a biaised voting system. It does not allow every voter to fully express his political convictions  and often ends in a very approximate choice. To the contrary, the majority judgment has been mathematically proven to be the most representative of what the people exactly think, it is then more democratic." } },
-	
-	
-	
- 				{ "data": { "id": "15", "label":
-												
-"People do not vote laws directly" 	} },
-	
-	
-									{ "data": { "id": "e15-13", "source": "15", "target": "13", "label":
-									"Citizens should be able to vote or have a say directly on laws whenever. Currently, they elect people that are voting the laws. Laws thus end up promoting those who have power and influence over those that make and vote  laws. Democracy is threatened." } },
-	
-	
-	
-	
-					{ "data": { "id": "14", "label":
-																
-"Ignorance or manipulation"   } },
-	
-	
-									{ "data": { "id": "e14-18", "source": "14", "target": "18", "label":
-									"Confusion leads to disinterest, and disinterest causes massive abstention or badly informed votes. This entails election of a government whose priority is not common good." } },
-	
-	
-	
-	
-					{ "data": { "id": "13", "label":
-																
-"Oligarchy" } },	
-										
-									
-									{ "data": { "id": "e13-18", "source": "13", "target": "18", "label":
-									"It is easier to influence or corrupt an oligarchy so that it protects a minority's interests." } },
-	
-									{ "data": { "id": "e13-3", "source": "13", "target": "3", "label":
-									"There are more chances that few empowered people declare war than an entire democracy. The vast majority of citizens rarely want war and seek peace." } },
-	
-	
-									
-	
-					{ "data": { "id": "12", "label":
-																
-"Social injustice" } },
-	
-	
-									{ "data": { "id": "e12-3", "source": "12", "target": "3", "label":
-									"Social injustice leads to an insurrectional mood." } },
-	
-									{ "data": { "id": "e12-1", "source": "12", "target": "1", "label":
-									"Social injustice give birth to radicalism. Radicalism fosters terrorism." } },
-	
-									{ "data": { "id": "e12-9", "source": "12", "target": "9", "label":
-									"Social injustice nurtures jealousy, social comparison, depression, theft, etc.. It reduces trust between people and inhibits altruism. It contributes to create a stressful individualist environment with the \"every man for himself\" mindset." } },
-	
-									{ "data": { "id": "e12-0", "source": "12", "target": "0", "label":
-									"Social injustice sometimes ends by suicide." } },
-	
-	
-	
-	
-					{ "data": { "id": "11", "label":
-												
-"Predatory economical system" } },
-	
-		
-									{ "data": { "id": "e11-7", "source": "11", "target": "7", "label":
-									"Avarice and greed of some ressources (oil, uranium), facilitated by an economical system designed and driven by a handful of powerful persons, leads to instigate economical wars that ruin entire nations." } },
-	
-									{ "data": { "id": "e11-10", "source": "11", "target": "10", "label":
-									"Money creation as debt from private banks for loans, interests, twice-lent money, balance between inflation and deflation for money supply stability are amongst the many aspects at play in the current economical system (a legal Ponzi scheme) that allows the richest to get exponentially richer. For this system to not crash, an exponential growth is absolutely necessary." } },
-	
-									{ "data": { "id": "e11-17", "source": "11", "target": "17", "label":
-									"The current economical system keeps increasing national debts because the states always have to loan from private banks." } },
-	
-	
-	
-	
-					{ "data": { "id": "10", "label":
-																
-"Exponential Growth" } },
-	
-	
-									{ "data": { "id": "e10-6", "source": "10", "target": "6", "label":
-									"Economical activity is closely related to the production of garbage and energy consumption. An exponential growth will pollute the Earth exponentially." } },
-	
-									{ "data": { "id": "e10-7", "source": "10", "target": "7", "label":
-									"Economical activity is closely related to consumption of natural ressources. Infinite exponential growth on a finite planet is a mathematical contradiction. Natural ressources are depleted." } },
-	
-	
-	
-	
-					{ "data": { "id": "9", "label":
-												
-"Individualist culture" } },
-	
-	
-									{ "data": { "id": "e9-18", "source": "9", "target": "18", "label":
-									"The quality of our elites is affected. They become very poor ambassadors of our demacratic values and poor defensers of the common good." } },
-	
-	
-	
-	
-					{ "data": { "id": "8", "label":
-												
-"Biaised mediatic realm" } },
-	
-	
-									{ "data": { "id": "e8-14", "source": "8", "target": "14", "label":
-									"Mainstream medias fail at providing full and quality information. Awareness of cause-effects relationships struggle to grow in an ocean of ignorance and confusion." } },
-	
- 									{ "data": { "id": "e8-9", "source": "8", "target": "9", "label":
-									"Mainstream medias flood channels with mind narrowing content and glorify individualism and competition. A pride and self-centered culture grows through advertisement. Brotherhood principles are threatened." } },
-	
-	
-	
-	
-					{ "data": { "id": "7", "label":
-												
-"Depletion of resources" } },
-	
-	
-									{ "data": { "id": "e7-5", "source": "7", "target": "5", "label":
-									"Deforestation and urbanization, for example, destroy the very items that help fight climate change by absorbing greenhouse effect gases (CO2)." } },
-		
-									{ "data": { "id": "e7-4", "source": "7", "target": "4", "label":
-									"Resources depletion cause starvation." } },
-	
-									{ "data": { "id": "e7-2", "source": "7", "target": "2", "label":
-									"Resources depletion drives people to leave." } },
-	
-	
-	
-	
-					{ "data": { "id": "6", "label":
-																
-"Pollution" } },
-	
-	
-									{ "data": { "id": "e6-7", "source": "6", "target": "7", "label":
-									"Pollution destroys natural resources. Biodiversity collapses." } },
-	
-									{ "data": { "id": "e6-5", "source": "6", "target": "5", "label":
-									"Greenhouse gases emissions cause climate change." } },
-	
-	
-	
-	
-					{ "data": { "id": "5", "label":
-																
-"Climate change" } },
-	
-									{ "data": { "id": "e5-0", "source": "5", "target": "0", "label":
-									"Climate change produces climatic events that kill directly : hurricanes, heat waves, et.." } },
-	
-									{ "data": { "id": "e5-7", "source": "5", "target": "7", "label":
-									"Climate change destroys natural resources.  Biodiversity collapses." } },
-	
-	
-	
-	
-					{ "data": { "id": "4", "label":
-																
-"Starvation" } },
-										
-	
-										{ "data": { "id": "e4-3", "source": "4", "target": "3", "label":
-										"The scarcity of natural resources leads peoples to fight, especially starvation." } },
-	
-										{ "data": { "id": "e4-0", "source": "4", "target": "0", "label":
-										"Starvation kills." } },
-																
-													
-																
-
-					{ "data": { "id": "3", "label":
-																
-"War" } },
-	
-	
-										{ "data": { "id": "e3-7", "source": "3", "target": "7", "label":
-										"War destroys natural resources." } },
-	
-										{ "data": { "id": "e3-2", "source": "3", "target": "2", "label":
-										"We escape war. We flee somewhere else." } },
-	
-										{ "data": { "id": "e3-1", "source": "3", "target": "1", "label":
-										"War leads to retaliation terrorism, e.g. Al Quaida, Daesh." } },
-	
-										{ "data": { "id": "e3-0", "source": "3", "target": "0", "label":
-										"War kills." } },
-	
-		
-	
-		
-					{ "data": { "id": "2", "label":
-																
-"Refugees" } },
-	
-	
-										{ "data": { "id": "e2-3", "source": "2", "target": "3", "label":
-										"Massive arrival of refugees with wrong or without political planning leads to fights." } },
-	
-	
-	
-	
-					{ "data": { "id": "1", "label":
-																
-"Terrorism" } },
-	
-	
-										{ "data": { "id": "e1-3", "source": "1", "target": "3", "label":
-										"Terrorism leads or accounts for an excuse of war (9/11 -> Afghanistan)." } },
-	
-										{ "data": { "id": "e1-0", "source": "1", "target": "0", "label":
-										"Terrorism kills." } },
-	
-	
-	
-	
-					{ "data": { "id": "0", "label":
-																
-"Death\n(unnatural)" } }
-	
- ]
+  {
+    "data": {
+      "id": "18",
+      "label": "Gouvernment suppporting a powerful minority"
+    },
+    "position": {
+      "x": 283.68298386393144,
+      "y": 282.03817035542716
+    },
+    "group": "nodes",
+    "removed": false,
+    "selected": false,
+    "selectable": true,
+    "locked": false,
+    "grabbable": true,
+    "pannable": false,
+    "classes": ""
+  },
+  {
+    "data": {
+      "id": "17",
+      "label": "Weakened State"
+    },
+    "position": {
+      "x": 395.53125811951793,
+      "y": 319.15327984021116
+    },
+    "group": "nodes",
+    "removed": false,
+    "selected": false,
+    "selectable": true,
+    "locked": false,
+    "grabbable": true,
+    "pannable": false,
+    "classes": ""
+  },
+  {
+    "data": {
+      "id": "16",
+      "label": "First past the post voting system"
+    },
+    "position": {
+      "x": 183.74676189611657,
+      "y": 282.483294683091
+    },
+    "group": "nodes",
+    "removed": false,
+    "selected": false,
+    "selectable": true,
+    "locked": false,
+    "grabbable": true,
+    "pannable": false,
+    "classes": ""
+  },
+  {
+    "data": {
+      "id": "15",
+      "label": "People do not vote laws directly"
+    },
+    "position": {
+      "x": 185.30711333952644,
+      "y": 209.24221760050168
+    },
+    "group": "nodes",
+    "removed": false,
+    "selected": false,
+    "selectable": true,
+    "locked": false,
+    "grabbable": true,
+    "pannable": false,
+    "classes": ""
+  },
+  {
+    "data": {
+      "id": "14",
+      "label": "Ignorance or manipulation"
+    },
+    "position": {
+      "x": 183.57461022962914,
+      "y": 359.18457315098203
+    },
+    "group": "nodes",
+    "removed": false,
+    "selected": false,
+    "selectable": true,
+    "locked": false,
+    "grabbable": true,
+    "pannable": false,
+    "classes": ""
+  },
+  {
+    "data": {
+      "id": "13",
+      "label": "Oligarchy"
+    },
+    "position": {
+      "x": 285.0901841026974,
+      "y": 170.98040605493972
+    },
+    "group": "nodes",
+    "removed": false,
+    "selected": false,
+    "selectable": true,
+    "locked": false,
+    "grabbable": true,
+    "pannable": false,
+    "classes": ""
+  },
+  {
+    "data": {
+      "id": "12",
+      "label": "Social injustice"
+    },
+    "position": {
+      "x": 393.9477621058496,
+      "y": 453.29982417146186
+    },
+    "group": "nodes",
+    "removed": false,
+    "selected": false,
+    "selectable": true,
+    "locked": false,
+    "grabbable": true,
+    "pannable": false,
+    "classes": ""
+  },
+  {
+    "data": {
+      "id": "11",
+      "label": "Predatory economical system"
+    },
+    "position": {
+      "x": 396.3468490727879,
+      "y": 171.08592896851246
+    },
+    "group": "nodes",
+    "removed": false,
+    "selected": false,
+    "selectable": true,
+    "locked": false,
+    "grabbable": true,
+    "pannable": false,
+    "classes": ""
+  },
+  {
+    "data": {
+      "id": "10",
+      "label": "Exponential Growth"
+    },
+    "position": {
+      "x": 484.8687932838089,
+      "y": 171.62130802359354
+    },
+    "group": "nodes",
+    "removed": false,
+    "selected": false,
+    "selectable": true,
+    "locked": false,
+    "grabbable": true,
+    "pannable": false,
+    "classes": ""
+  },
+  {
+    "data": {
+      "id": "9",
+      "label": "Individualist culture"
+    },
+    "position": {
+      "x": 312.16224757803576,
+      "y": 450.0418069059961
+    },
+    "group": "nodes",
+    "removed": false,
+    "selected": false,
+    "selectable": true,
+    "locked": false,
+    "grabbable": true,
+    "pannable": false,
+    "classes": ""
+  },
+  {
+    "data": {
+      "id": "8",
+      "label": "Biaised mediatic realm"
+    },
+    "position": {
+      "x": 235.997408248438,
+      "y": 451.3079634402252
+    },
+    "group": "nodes",
+    "removed": false,
+    "selected": false,
+    "selectable": true,
+    "locked": false,
+    "grabbable": true,
+    "pannable": false,
+    "classes": ""
+  },
+  {
+    "data": {
+      "id": "7",
+      "label": "Depletion of resources"
+    },
+    "position": {
+      "x": 484.2945932484065,
+      "y": 242.83604931041452
+    },
+    "group": "nodes",
+    "removed": false,
+    "selected": false,
+    "selectable": true,
+    "locked": false,
+    "grabbable": true,
+    "pannable": false,
+    "classes": ""
+  },
+  {
+    "data": {
+      "id": "6",
+      "label": "Pollution"
+    },
+    "position": {
+      "x": 572.8906704411023,
+      "y": 170.86302017504846
+    },
+    "group": "nodes",
+    "removed": false,
+    "selected": false,
+    "selectable": true,
+    "locked": false,
+    "grabbable": true,
+    "pannable": false,
+    "classes": ""
+  },
+  {
+    "data": {
+      "id": "5",
+      "label": "Climate change"
+    },
+    "position": {
+      "x": 574.7146870021282,
+      "y": 241.84257816017336
+    },
+    "group": "nodes",
+    "removed": false,
+    "selected": false,
+    "selectable": true,
+    "locked": false,
+    "grabbable": true,
+    "pannable": false,
+    "classes": ""
+  },
+  {
+    "data": {
+      "id": "4",
+      "label": "Starvation"
+    },
+    "position": {
+      "x": 572.744870236341,
+      "y": 299.30027359118804
+    },
+    "group": "nodes",
+    "removed": false,
+    "selected": false,
+    "selectable": true,
+    "locked": false,
+    "grabbable": true,
+    "pannable": false,
+    "classes": ""
+  },
+  {
+    "data": {
+      "id": "3",
+      "label": "War"
+    },
+    "position": {
+      "x": 601.0190000931699,
+      "y": 395.2015136614693
+    },
+    "group": "nodes",
+    "removed": false,
+    "selected": false,
+    "selectable": true,
+    "locked": false,
+    "grabbable": true,
+    "pannable": false,
+    "classes": ""
+  },
+  {
+    "data": {
+      "id": "2",
+      "label": "Refugees"
+    },
+    "position": {
+      "x": 455.21052361212577,
+      "y": 360.96051573768244
+    },
+    "group": "nodes",
+    "removed": false,
+    "selected": false,
+    "selectable": true,
+    "locked": false,
+    "grabbable": true,
+    "pannable": false,
+    "classes": ""
+  },
+  {
+    "data": {
+      "id": "1",
+      "label": "Terrorism"
+    },
+    "position": {
+      "x": 670.6236359543891,
+      "y": 454.3010173383176
+    },
+    "group": "nodes",
+    "removed": false,
+    "selected": false,
+    "selectable": true,
+    "locked": false,
+    "grabbable": true,
+    "pannable": false,
+    "classes": ""
+  },
+  {
+    "data": {
+      "id": "0",
+      "label": "Death\n(unnatural)"
+    },
+    "position": {
+      "x": 670.2217229413163,
+      "y": 295.23868090486053
+    },
+    "group": "nodes",
+    "removed": false,
+    "selected": false,
+    "selectable": true,
+    "locked": false,
+    "grabbable": true,
+    "pannable": false,
+    "classes": ""
+  },
+  {
+    "data": {
+      "id": "e18-17",
+      "source": "18",
+      "target": "17",
+      "label": "A gouvernment that protects the interests of a minority leads a political program that enslaves the State to this minority."
+    },
+    "position": {
+      "x": 0,
+      "y": 0
+    },
+    "group": "edges",
+    "removed": false,
+    "selected": false,
+    "selectable": true,
+    "locked": false,
+    "grabbable": true,
+    "pannable": true,
+    "classes": ""
+  },
+  {
+    "data": {
+      "id": "e18-8",
+      "source": "18",
+      "target": "8",
+      "label": "Seldom are the rules that are preventing too much porosity between politics, rich media owners and journalists. The mediatic sphere is under the influence of the Establishment."
+    },
+    "position": {
+      "x": 0,
+      "y": 0
+    },
+    "group": "edges",
+    "removed": false,
+    "selected": false,
+    "selectable": true,
+    "locked": false,
+    "grabbable": true,
+    "pannable": true,
+    "classes": ""
+  },
+  {
+    "data": {
+      "id": "e18-16",
+      "source": "18",
+      "target": "16",
+      "label": "A gouvernment that protects the interests of a minority avoids voting constitutionnal changes that would implement a new election method that would reduce chances to be re-elected."
+    },
+    "position": {
+      "x": 0,
+      "y": 0
+    },
+    "group": "edges",
+    "removed": false,
+    "selected": false,
+    "selectable": true,
+    "locked": false,
+    "grabbable": true,
+    "pannable": true,
+    "classes": ""
+  },
+  {
+    "data": {
+      "id": "e18-15",
+      "source": "18",
+      "target": "15",
+      "label": "A gouvernment that protects the interests of a minority avoids changing the constitution so that the citizens can vote laws directly."
+    },
+    "position": {
+      "x": 0,
+      "y": 0
+    },
+    "group": "edges",
+    "removed": false,
+    "selected": false,
+    "selectable": true,
+    "locked": false,
+    "grabbable": true,
+    "pannable": true,
+    "classes": ""
+  },
+  {
+    "data": {
+      "id": "e18-11",
+      "source": "18",
+      "target": "11",
+      "label": "A gouvernment that protects the interests of a minority legalize an economical system that promotes that minority. This phenomenon is encouraged by the revolving doors between public and private sector."
+    },
+    "position": {
+      "x": 0,
+      "y": 0
+    },
+    "group": "edges",
+    "removed": false,
+    "selected": false,
+    "selectable": true,
+    "locked": false,
+    "grabbable": true,
+    "pannable": true,
+    "classes": ""
+  },
+  {
+    "data": {
+      "id": "e18-12",
+      "source": "18",
+      "target": "12",
+      "label": "A executive power that protects the interests of a minority conducts an austerity political program and applies strong repression to protesters."
+    },
+    "position": {
+      "x": 0,
+      "y": 0
+    },
+    "group": "edges",
+    "removed": false,
+    "selected": false,
+    "selectable": true,
+    "locked": false,
+    "grabbable": true,
+    "pannable": true,
+    "classes": ""
+  },
+  {
+    "data": {
+      "id": "e17-12",
+      "source": "17",
+      "target": "12",
+      "label": "Weakened public services are no help in fighting against social justice. The welfare state dissapears."
+    },
+    "position": {
+      "x": 0,
+      "y": 0
+    },
+    "group": "edges",
+    "removed": false,
+    "selected": false,
+    "selectable": true,
+    "locked": false,
+    "grabbable": true,
+    "pannable": true,
+    "classes": ""
+  },
+  {
+    "data": {
+      "id": "e16-18",
+      "source": "16",
+      "target": "18",
+      "label": "The first past the post election method is mathematically proven as a biaised voting system. It does not allow every voter to fully express his political convictions  and often ends in a very approximate choice. To the contrary, the majority judgment has been mathematically proven to be the most representative of what the people exactly think, it is then more democratic."
+    },
+    "position": {
+      "x": 0,
+      "y": 0
+    },
+    "group": "edges",
+    "removed": false,
+    "selected": false,
+    "selectable": true,
+    "locked": false,
+    "grabbable": true,
+    "pannable": true,
+    "classes": ""
+  },
+  {
+    "data": {
+      "id": "e15-13",
+      "source": "15",
+      "target": "13",
+      "label": "Citizens should be able to vote or have a say directly on laws whenever. Currently, they elect people that are voting the laws. Laws thus end up promoting those who have power and influence over those that make and vote  laws. Democracy is threatened."
+    },
+    "position": {
+      "x": 0,
+      "y": 0
+    },
+    "group": "edges",
+    "removed": false,
+    "selected": false,
+    "selectable": true,
+    "locked": false,
+    "grabbable": true,
+    "pannable": true,
+    "classes": ""
+  },
+  {
+    "data": {
+      "id": "e14-18",
+      "source": "14",
+      "target": "18",
+      "label": "Confusion leads to disinterest, and disinterest causes massive abstention or badly informed votes. This entails election of a government whose priority is not common good."
+    },
+    "position": {
+      "x": 0,
+      "y": 0
+    },
+    "group": "edges",
+    "removed": false,
+    "selected": false,
+    "selectable": true,
+    "locked": false,
+    "grabbable": true,
+    "pannable": true,
+    "classes": ""
+  },
+  {
+    "data": {
+      "id": "e13-18",
+      "source": "13",
+      "target": "18",
+      "label": "It is easier to influence or corrupt an oligarchy so that it protects a minority's interests."
+    },
+    "position": {
+      "x": 0,
+      "y": 0
+    },
+    "group": "edges",
+    "removed": false,
+    "selected": false,
+    "selectable": true,
+    "locked": false,
+    "grabbable": true,
+    "pannable": true,
+    "classes": ""
+  },
+  {
+    "data": {
+      "id": "e13-3",
+      "source": "13",
+      "target": "3",
+      "label": "There are more chances that few empowered people declare war than an entire democracy. The vast majority of citizens rarely want war and seek peace."
+    },
+    "position": {
+      "x": 0,
+      "y": 0
+    },
+    "group": "edges",
+    "removed": false,
+    "selected": false,
+    "selectable": true,
+    "locked": false,
+    "grabbable": true,
+    "pannable": true,
+    "classes": ""
+  },
+  {
+    "data": {
+      "id": "e12-3",
+      "source": "12",
+      "target": "3",
+      "label": "Social injustice leads to an insurrectional mood."
+    },
+    "position": {
+      "x": 0,
+      "y": 0
+    },
+    "group": "edges",
+    "removed": false,
+    "selected": false,
+    "selectable": true,
+    "locked": false,
+    "grabbable": true,
+    "pannable": true,
+    "classes": ""
+  },
+  {
+    "data": {
+      "id": "e12-1",
+      "source": "12",
+      "target": "1",
+      "label": "Social injustice give birth to radicalism. Radicalism fosters terrorism."
+    },
+    "position": {
+      "x": 0,
+      "y": 0
+    },
+    "group": "edges",
+    "removed": false,
+    "selected": false,
+    "selectable": true,
+    "locked": false,
+    "grabbable": true,
+    "pannable": true,
+    "classes": ""
+  },
+  {
+    "data": {
+      "id": "e12-9",
+      "source": "12",
+      "target": "9",
+      "label": "Social injustice nurtures jealousy, social comparison, depression, theft, etc.. It reduces trust between people and inhibits altruism. It contributes to create a stressful individualist environment with the \"every man for himself\" mindset."
+    },
+    "position": {
+      "x": 0,
+      "y": 0
+    },
+    "group": "edges",
+    "removed": false,
+    "selected": false,
+    "selectable": true,
+    "locked": false,
+    "grabbable": true,
+    "pannable": true,
+    "classes": ""
+  },
+  {
+    "data": {
+      "id": "e12-0",
+      "source": "12",
+      "target": "0",
+      "label": "Social injustice sometimes ends by suicide."
+    },
+    "position": {
+      "x": 0,
+      "y": 0
+    },
+    "group": "edges",
+    "removed": false,
+    "selected": false,
+    "selectable": true,
+    "locked": false,
+    "grabbable": true,
+    "pannable": true,
+    "classes": ""
+  },
+  {
+    "data": {
+      "id": "e11-7",
+      "source": "11",
+      "target": "7",
+      "label": "Avarice and greed of some ressources (oil, uranium), facilitated by an economical system designed and driven by a handful of powerful persons, leads to instigate economical wars that ruin entire nations."
+    },
+    "position": {
+      "x": 0,
+      "y": 0
+    },
+    "group": "edges",
+    "removed": false,
+    "selected": false,
+    "selectable": true,
+    "locked": false,
+    "grabbable": true,
+    "pannable": true,
+    "classes": ""
+  },
+  {
+    "data": {
+      "id": "e11-10",
+      "source": "11",
+      "target": "10",
+      "label": "Money creation as debt from private banks for loans, interests, twice-lent money, balance between inflation and deflation for money supply stability are amongst the many aspects at play in the current economical system (a legal Ponzi scheme) that allows the richest to get exponentially richer. For this system to not crash, an exponential growth is absolutely necessary."
+    },
+    "position": {
+      "x": 0,
+      "y": 0
+    },
+    "group": "edges",
+    "removed": false,
+    "selected": false,
+    "selectable": true,
+    "locked": false,
+    "grabbable": true,
+    "pannable": true,
+    "classes": ""
+  },
+  {
+    "data": {
+      "id": "e11-17",
+      "source": "11",
+      "target": "17",
+      "label": "The current economical system keeps increasing national debts because the states always have to loan from private banks."
+    },
+    "position": {
+      "x": 0,
+      "y": 0
+    },
+    "group": "edges",
+    "removed": false,
+    "selected": false,
+    "selectable": true,
+    "locked": false,
+    "grabbable": true,
+    "pannable": true,
+    "classes": ""
+  },
+  {
+    "data": {
+      "id": "e10-6",
+      "source": "10",
+      "target": "6",
+      "label": "Economical activity is closely related to the production of garbage and energy consumption. An exponential growth will pollute the Earth exponentially."
+    },
+    "position": {
+      "x": 0,
+      "y": 0
+    },
+    "group": "edges",
+    "removed": false,
+    "selected": false,
+    "selectable": true,
+    "locked": false,
+    "grabbable": true,
+    "pannable": true,
+    "classes": ""
+  },
+  {
+    "data": {
+      "id": "e10-7",
+      "source": "10",
+      "target": "7",
+      "label": "Economical activity is closely related to consumption of natural ressources. Infinite exponential growth on a finite planet is a mathematical contradiction. Natural ressources are depleted."
+    },
+    "position": {
+      "x": 0,
+      "y": 0
+    },
+    "group": "edges",
+    "removed": false,
+    "selected": false,
+    "selectable": true,
+    "locked": false,
+    "grabbable": true,
+    "pannable": true,
+    "classes": ""
+  },
+  {
+    "data": {
+      "id": "e9-18",
+      "source": "9",
+      "target": "18",
+      "label": "The quality of our elites is affected. They become very poor ambassadors of our demacratic values and poor defensers of the common good."
+    },
+    "position": {
+      "x": 0,
+      "y": 0
+    },
+    "group": "edges",
+    "removed": false,
+    "selected": false,
+    "selectable": true,
+    "locked": false,
+    "grabbable": true,
+    "pannable": true,
+    "classes": ""
+  },
+  {
+    "data": {
+      "id": "e8-14",
+      "source": "8",
+      "target": "14",
+      "label": "Mainstream medias fail at providing full and quality information. Awareness of cause-effects relationships struggle to grow in an ocean of ignorance and confusion."
+    },
+    "position": {
+      "x": 0,
+      "y": 0
+    },
+    "group": "edges",
+    "removed": false,
+    "selected": false,
+    "selectable": true,
+    "locked": false,
+    "grabbable": true,
+    "pannable": true,
+    "classes": ""
+  },
+  {
+    "data": {
+      "id": "e8-9",
+      "source": "8",
+      "target": "9",
+      "label": "Mainstream medias flood channels with mind narrowing content and glorify individualism and competition. A pride and self-centered culture grows through advertisement. Brotherhood principles are threatened."
+    },
+    "position": {
+      "x": 0,
+      "y": 0
+    },
+    "group": "edges",
+    "removed": false,
+    "selected": false,
+    "selectable": true,
+    "locked": false,
+    "grabbable": true,
+    "pannable": true,
+    "classes": ""
+  },
+  {
+    "data": {
+      "id": "e7-5",
+      "source": "7",
+      "target": "5",
+      "label": "Deforestation and urbanization, for example, destroy the very items that help fight climate change by absorbing greenhouse effect gases (CO2)."
+    },
+    "position": {
+      "x": 0,
+      "y": 0
+    },
+    "group": "edges",
+    "removed": false,
+    "selected": false,
+    "selectable": true,
+    "locked": false,
+    "grabbable": true,
+    "pannable": true,
+    "classes": ""
+  },
+  {
+    "data": {
+      "id": "e7-4",
+      "source": "7",
+      "target": "4",
+      "label": "Resources depletion cause starvation."
+    },
+    "position": {
+      "x": 0,
+      "y": 0
+    },
+    "group": "edges",
+    "removed": false,
+    "selected": false,
+    "selectable": true,
+    "locked": false,
+    "grabbable": true,
+    "pannable": true,
+    "classes": ""
+  },
+  {
+    "data": {
+      "id": "e7-2",
+      "source": "7",
+      "target": "2",
+      "label": "Resources depletion drives people to leave."
+    },
+    "position": {
+      "x": 0,
+      "y": 0
+    },
+    "group": "edges",
+    "removed": false,
+    "selected": false,
+    "selectable": true,
+    "locked": false,
+    "grabbable": true,
+    "pannable": true,
+    "classes": ""
+  },
+  {
+    "data": {
+      "id": "e6-7",
+      "source": "6",
+      "target": "7",
+      "label": "Pollution destroys natural resources. Biodiversity collapses."
+    },
+    "position": {
+      "x": 0,
+      "y": 0
+    },
+    "group": "edges",
+    "removed": false,
+    "selected": false,
+    "selectable": true,
+    "locked": false,
+    "grabbable": true,
+    "pannable": true,
+    "classes": ""
+  },
+  {
+    "data": {
+      "id": "e6-5",
+      "source": "6",
+      "target": "5",
+      "label": "Greenhouse gases emissions cause climate change."
+    },
+    "position": {
+      "x": 0,
+      "y": 0
+    },
+    "group": "edges",
+    "removed": false,
+    "selected": false,
+    "selectable": true,
+    "locked": false,
+    "grabbable": true,
+    "pannable": true,
+    "classes": ""
+  },
+  {
+    "data": {
+      "id": "e5-0",
+      "source": "5",
+      "target": "0",
+      "label": "Climate change produces climatic events that kill directly : hurricanes, heat waves, et.."
+    },
+    "position": {
+      "x": 0,
+      "y": 0
+    },
+    "group": "edges",
+    "removed": false,
+    "selected": false,
+    "selectable": true,
+    "locked": false,
+    "grabbable": true,
+    "pannable": true,
+    "classes": ""
+  },
+  {
+    "data": {
+      "id": "e5-7",
+      "source": "5",
+      "target": "7",
+      "label": "Climate change destroys natural resources.  Biodiversity collapses."
+    },
+    "position": {
+      "x": 0,
+      "y": 0
+    },
+    "group": "edges",
+    "removed": false,
+    "selected": false,
+    "selectable": true,
+    "locked": false,
+    "grabbable": true,
+    "pannable": true,
+    "classes": ""
+  },
+  {
+    "data": {
+      "id": "e4-3",
+      "source": "4",
+      "target": "3",
+      "label": "The scarcity of natural resources leads peoples to fight, especially starvation."
+    },
+    "position": {
+      "x": 0,
+      "y": 0
+    },
+    "group": "edges",
+    "removed": false,
+    "selected": false,
+    "selectable": true,
+    "locked": false,
+    "grabbable": true,
+    "pannable": true,
+    "classes": ""
+  },
+  {
+    "data": {
+      "id": "e4-0",
+      "source": "4",
+      "target": "0",
+      "label": "Starvation kills."
+    },
+    "position": {
+      "x": 0,
+      "y": 0
+    },
+    "group": "edges",
+    "removed": false,
+    "selected": false,
+    "selectable": true,
+    "locked": false,
+    "grabbable": true,
+    "pannable": true,
+    "classes": ""
+  },
+  {
+    "data": {
+      "id": "e3-7",
+      "source": "3",
+      "target": "7",
+      "label": "War destroys natural resources."
+    },
+    "position": {
+      "x": 0,
+      "y": 0
+    },
+    "group": "edges",
+    "removed": false,
+    "selected": false,
+    "selectable": true,
+    "locked": false,
+    "grabbable": true,
+    "pannable": true,
+    "classes": ""
+  },
+  {
+    "data": {
+      "id": "e3-2",
+      "source": "3",
+      "target": "2",
+      "label": "We escape war. We flee somewhere else."
+    },
+    "position": {
+      "x": 0,
+      "y": 0
+    },
+    "group": "edges",
+    "removed": false,
+    "selected": false,
+    "selectable": true,
+    "locked": false,
+    "grabbable": true,
+    "pannable": true,
+    "classes": ""
+  },
+  {
+    "data": {
+      "id": "e3-1",
+      "source": "3",
+      "target": "1",
+      "label": "War leads to retaliation terrorism, e.g. Al Quaida, Daesh."
+    },
+    "position": {
+      "x": 0,
+      "y": 0
+    },
+    "group": "edges",
+    "removed": false,
+    "selected": false,
+    "selectable": true,
+    "locked": false,
+    "grabbable": true,
+    "pannable": true,
+    "classes": ""
+  },
+  {
+    "data": {
+      "id": "e3-0",
+      "source": "3",
+      "target": "0",
+      "label": "War kills."
+    },
+    "position": {
+      "x": 0,
+      "y": 0
+    },
+    "group": "edges",
+    "removed": false,
+    "selected": false,
+    "selectable": true,
+    "locked": false,
+    "grabbable": true,
+    "pannable": true,
+    "classes": ""
+  },
+  {
+    "data": {
+      "id": "e2-3",
+      "source": "2",
+      "target": "3",
+      "label": "Massive arrival of refugees with wrong or without political planning leads to fights."
+    },
+    "position": {
+      "x": 0,
+      "y": 0
+    },
+    "group": "edges",
+    "removed": false,
+    "selected": false,
+    "selectable": true,
+    "locked": false,
+    "grabbable": true,
+    "pannable": true,
+    "classes": ""
+  },
+  {
+    "data": {
+      "id": "e1-3",
+      "source": "1",
+      "target": "3",
+      "label": "Terrorism leads or accounts for an excuse of war (9/11 -> Afghanistan)."
+    },
+    "position": {
+      "x": 0,
+      "y": 0
+    },
+    "group": "edges",
+    "removed": false,
+    "selected": false,
+    "selectable": true,
+    "locked": false,
+    "grabbable": true,
+    "pannable": true,
+    "classes": ""
+  },
+  {
+    "data": {
+      "id": "e1-0",
+      "source": "1",
+      "target": "0",
+      "label": "Terrorism kills."
+    },
+    "position": {
+      "x": 0,
+      "y": 0
+    },
+    "group": "edges",
+    "removed": false,
+    "selected": false,
+    "selectable": true,
+    "locked": false,
+    "grabbable": true,
+    "pannable": true,
+    "classes": ""
+  }
+]

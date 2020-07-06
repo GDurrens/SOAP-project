@@ -28,6 +28,6 @@ the network construction is relying on [Cytoscape.js](https://js.cytoscape.org/)
 
 ## Credits:
 
-### SVG exporter
+##### SVG exporter
 
 [Kinimesi Github cytoscape-js](https://github.com/kinimesi/cytoscape-svg)

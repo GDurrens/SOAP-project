@@ -1,0 +1,269 @@
+[
+				{ "data": { "id": "18", "label":
+																
+"Gouvernement au service d'une minorité de puissants" } },
+	
+	
+									{ "data": { "id": "e18-17", "source": "18", "target": "17", "label":
+									"Un gouvernement qui favorise les intérêts d'une minorité met en place une politique qui asservi l'état à cette minorité." } },
+	
+									{ "data": { "id": "e18-8", "source": "18", "target": "8", "label":
+									"Aucune loi ne régit la porosité entre politiques, puissants (propriétaires des médias) et journalistes. La sphère médiatique est sous influence du pouvoir." } },
+	
+									{ "data": { "id": "e18-16", "source": "18", "target": "16", "label":
+									"Un gouvernement qui favorise les intérêts d'une minorité se garde bien de voter des changements de la constitution qui instaureraient une nouvelle méthode d'élection qui diminuerait les chances d'être réélu." } },
+	
+									{ "data": { "id": "e18-15", "source": "18", "target": "15", "label":
+									"Un gouvernement qui préserve les intérêts d'une minorité ne changera pas une constitution pour que les citoyens puissent voter les lois directement." } },
+	
+									{ "data": { "id": "e18-11", "source": "18", "target": "11", "label":
+									"Un gouvernement qui préserve les intérêts d'une minorité de puissants légalise un système économique qui favorise cette minorité. Ce phénomène est favorisé par le pantouflage et le rétro-pantouflage." } },
+	
+									{ "data": { "id": "e18-12", "source": "18", "target": "12", "label":
+									"Un pouvoir exécutif qui préserve les intérêts d'une minorité de puissants applique une politique d'austérité et de répression des contestataires." } },
+	
+	
+	
+	
+				{ "data": { "id": "17", "label":
+																
+"État affaibli" } },
+	
+	
+									{ "data": { "id": "e17-12", "source": "17", "target": "12", "label":
+									"Des services publics affaiblis ne contribuent pas à la justice sociale. Le principe d'ÉGALITÉ de la république est mis à mal. L'État providence disparait." } },
+	
+	
+	
+	
+ 				{ "data": { "id": "16", "label": 
+												
+"Scrutin uninominal à deux tours" } },
+	
+		
+									{ "data": { "id": "e16-18", "source": "16", "target": "18", "label":
+																
+    					"La méthode d'élection du scrutin uninominal à deux tours (pour la présidentielle) a été mathématiquement prouvée comme posant des problèmes, à la différence, par exemple, de celle du jugement majoritaire. Elle ne permet pas d'exprimer exactement ses convictions (vote utile) et se termine par des faux choix" } },
+	
+	
+	
+ 				{ "data": { "id": "15", "label":
+												
+"Le peuple ne vote pas les lois" 	} },
+	
+	
+									{ "data": { "id": "e15-13", "source": "15", "target": "13", "label":
+									"Les citoyens devraient avoir la possibilité d'agir sur la loi à tout moment, directement. Or, ils ne le peuvent pas dans le présent système, ils doivent passer par des représentants élus pendant 5 ans. Les lois finissent par protéger ceux qui ont du pouvoir d'influence auprès de ceux qui font les lois (le parlement). La démocratie est mise à mal." } },
+	
+	
+	
+	
+					{ "data": { "id": "14", "label":
+																
+"Ignorance ou manipulation"   } },
+	
+	
+									{ "data": { "id": "e14-18", "source": "14", "target": "18", "label":
+									"La confusion engendre le désintérêt, et le désintérêt mène à l'abstention massive ou au vote mal éclairé. Ceci engendre l'élection d'un gouvernement dont la priorité n'est pas l'intérêt général." } },
+	
+	
+	
+	
+					{ "data": { "id": "13", "label":
+																
+"Pouvoir oligarchique" } },	
+										
+									
+									{ "data": { "id": "e13-18", "source": "13", "target": "18", "label":
+									"Il est plus facile d'influencer ou de corrompre un gouvernement oligarchique afin qu'il protège les intérêts d'une minorité." } },
+	
+									{ "data": { "id": "e13-3", "source": "13", "target": "3", "label":
+									"Il y a plus de risque qu'une guerre soit déclarée par un pouvoir oligarchique que par un régime démocratique. Les citoyens veulent rarement la guerre." } },
+	
+	
+									
+	
+					{ "data": { "id": "12", "label":
+																
+"Injustice sociale" } },
+	
+	
+									{ "data": { "id": "e12-3", "source": "12", "target": "3", "label":
+									"L'injustice sociale créé un climat insurrectionnel." } },
+	
+									{ "data": { "id": "e12-1", "source": "12", "target": "1", "label":
+									"L'injustice sociale radicalise et, à l'extrême, mène au terrorisme." } },
+	
+									{ "data": { "id": "e12-9", "source": "12", "target": "9", "label":
+									"L'injustice sociale est un terreau fertile pour la jalousie, la comparaison sociale, la dépression, le vol par nécessité, etc., et réduit donc la confiance entre individus et diminue fortement la disponibilité de chacun pour autrui. Elle contribue à installer un climat stressant individualiste de \"chacun pour soi\"." } },
+	
+									{ "data": { "id": "e12-0", "source": "12", "target": "0", "label":
+									"L'injustice sociale pousse malheureusement certains au suicide." } },
+	
+	
+	
+	
+					{ "data": { "id": "11", "label":
+												
+"Système économique prédateur" } },
+	
+		
+									{ "data": { "id": "e11-7", "source": "11", "target": "7", "label":
+									"L'avarice et la convoitise de certaines ressources (pétrole, uranium), facilité par un système économique conçu et piloté par une minorité de puissants, conduisent à fomenter des guerres économiques, ruinant certains pays." } },
+	
+									{ "data": { "id": "e11-10", "source": "11", "target": "10", "label":
+									"Création monétaire scripturale ex-nihilo des banques privées lors des emprunts, intérêts, prêts en cascade de la dette, équilibre entre inflation et déflation pour permettre une masse monétaire stable, sont les principaux aspects à l'oeuvre dans la façon dont le système économique actuel (un système de Ponzi devenu légal) permet d'enrichir exponentionnellement les plus riches. Pour qu'il ne s'effondre pas, une croissance exponentielle est absolument nécessaire." } },
+	
+									{ "data": { "id": "e11-17", "source": "11", "target": "17", "label":
+									"Le système économique endette les états qui doivent emprunter auprès des banques privées." } },
+	
+	
+	
+	
+					{ "data": { "id": "10", "label":
+																
+"Croissance exponentielle" } },
+	
+	
+									{ "data": { "id": "e10-6", "source": "10", "target": "6", "label":
+									"L'activité économique est directement liée à la production de déchets et à la consommation d'énergie. Une croissance économique exponentielle polluera la Terre de manière exponentielle." } },
+	
+									{ "data": { "id": "e10-7", "source": "10", "target": "7", "label":
+									"L'activité économique est directement liée à la consommation de ressources. Une croissance économique exponentielle infinie n'est pas mathématiquement  possible sur une planète finie. Les ressources s'épuisent." } },
+	
+	
+	
+	
+					{ "data": { "id": "9", "label":
+												
+"Culture de l'individualisme" } },
+	
+	
+									{ "data": { "id": "e9-18", "source": "9", "target": "18", "label":
+									"La qualité de nos élites est touchée. Ils deviennent moins défenseurs des valeurs de la république et de l'intérêt général." } },
+	
+	
+	
+	
+					{ "data": { "id": "8", "label":
+												
+"Sphère médiatique sous influence" } },
+	
+	
+									{ "data": { "id": "e8-14", "source": "8", "target": "14", "label":
+									"Les médias mainstream faillient à fournir une information complète et de qualité. La conscience a du mal à grandir dans un océan d'ignorance et de confusion." } },
+	
+ 									{ "data": { "id": "e8-9", "source": "8", "target": "9", "label":
+									"Les médias mainstream inondent les ondes de contenus crétinisant qui font l'apologie de l'individualisme. Une culture de la compétition et de la vanité grandit via la publicité. La valeur FRATERNITÉ de la République est touchée." } },
+	
+	
+	
+	
+					{ "data": { "id": "7", "label":
+												
+"Épuisement des ressources" } },
+	
+	
+									{ "data": { "id": "e7-5", "source": "7", "target": "5", "label":
+									"La déforestation et l'urbanisation, par exemple, détruit les éléments qui absorbe une partie des gaz à effet de serre (CO2)." } },
+		
+									{ "data": { "id": "e7-4", "source": "7", "target": "4", "label":
+									"l'épuisement des ressources locales génère des famines." } },
+	
+									{ "data": { "id": "e7-2", "source": "7", "target": "2", "label":
+									"L'épuisement des ressources locales mène les personnes à partir pour en trouver ailleurs." } },
+	
+	
+	
+	
+					{ "data": { "id": "6", "label":
+																
+"Pollution" } },
+	
+	
+									{ "data": { "id": "e6-7", "source": "6", "target": "7", "label":
+									"La pollution détruit des ressources naturelle. Effondrement de la biodiversité." } },
+	
+									{ "data": { "id": "e6-5", "source": "6", "target": "5", "label":
+									"Les émissions de gaz à effet de serre causent un réchauffement/changement climatique." } },
+	
+	
+	
+	
+					{ "data": { "id": "5", "label":
+																
+"Changement Climatique" } },
+	
+									{ "data": { "id": "e5-0", "source": "5", "target": "0", "label":
+									"le changement climatique provoque des évènements météorologique qui tuent directement : tempêtes, canicules, etc.." } },
+	
+									{ "data": { "id": "e5-7", "source": "5", "target": "7", "label":
+									"Le changement climatique détruit des ressources naturelles. Effondrement de la biodiversité." } },
+	
+	
+	
+	
+					{ "data": { "id": "4", "label":
+																
+"Famines" } },
+										
+	
+										{ "data": { "id": "e4-3", "source": "4", "target": "3", "label":
+										"La rareté des ressources pousse les peuples à se battre, surtout la faim." } },
+	
+										{ "data": { "id": "e4-0", "source": "4", "target": "0", "label":
+										"la famine tue." } },
+																
+													
+																
+
+					{ "data": { "id": "3", "label":
+																
+"Guerres" } },
+	
+	
+										{ "data": { "id": "e3-7", "source": "3", "target": "7", "label":
+										"La guerre détruit les ressources naturelles." } },
+	
+										{ "data": { "id": "e3-2", "source": "3", "target": "2", "label":
+										"On fuit la guerre. On se réfugie ailleurs." } },
+	
+										{ "data": { "id": "e3-1", "source": "3", "target": "1", "label":
+										"la guerre mène au terrorisme de représailles, e.g. Al Quaida ou Daesh." } },
+	
+										{ "data": { "id": "e3-0", "source": "3", "target": "0", "label":
+										"la guerre tue" } },
+	
+		
+	
+		
+					{ "data": { "id": "2", "label":
+																
+"Réfugiés" } },
+	
+	
+										{ "data": { "id": "e2-3", "source": "2", "target": "3", "label":
+										"L'arrivée massive de réfugiés mal gérée politiquement engendre la guerre." } },
+	
+	
+	
+	
+					{ "data": { "id": "1", "label":
+																
+"Terrorisme" } },
+	
+	
+										{ "data": { "id": "e1-3", "source": "1", "target": "3", "label":
+										"Le terrorisme pousse ou constitue un prétexte à la guerre (9/11 -> Afghanistan)." } },
+	
+										{ "data": { "id": "e1-0", "source": "1", "target": "0", "label":
+										"Le terrorisme tue." } },
+	
+	
+	
+	
+					{ "data": { "id": "0", "label":
+																
+"Morts\n(non naturels)" } }
+	
+ ]

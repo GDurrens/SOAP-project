@@ -49,7 +49,7 @@ document.addEventListener("DOMContentLoaded",function(){
 				}
 			}],
 		
-		elements: fetch("data.json").then(function( res ){ return res.json(); }),
+		elements: fetch("./data.json").then(function( res ){ return res.json(); }),
 				
 		ready: function(){	
 			this.layout({

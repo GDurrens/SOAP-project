@@ -14,6 +14,8 @@ You can save the graph's position as JSON locally.
 
 You can export a svg
 
+Of course, you can also edit in the open source stand-alone software [Cytoscape](https://cytoscape.org/)
+
 
 ## HOW IT WORKS:
 

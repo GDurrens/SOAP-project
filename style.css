@@ -12,10 +12,20 @@ h1,h2,h3,h4,p {
 	text-align: left;
 }
 
+h2{
+	font-size: 0.8em;
+}
+
 h3 {
 	font-style: italic;
+	font-size: 0.7em;
 }
-.utilisation {
+
+p {
+	font-size: 0.7em;
+}
+
+.usage {
 	position: absolute;
 	bottom: 10px;
 	left: 10px;

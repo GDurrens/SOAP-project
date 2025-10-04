@@ -27,6 +27,8 @@ the network construction is relying on [Cytoscape.js](https://js.cytoscape.org/)
  * Cytoscape.js ^3.2.0
  * canvas2svg
 
+## Author
+Gregoire Durrens
 
 ## Credits:
 
